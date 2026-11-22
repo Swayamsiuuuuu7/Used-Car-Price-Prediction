@@ -55,7 +55,7 @@ The Streamlit application allows users to enter vehicle details and receive an e
 Clone the repository:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/Swayamsiuuuu7/Used-Car-Price-Prediction.git
 ```
 
 Install dependencies:
